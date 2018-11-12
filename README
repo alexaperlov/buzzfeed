@@ -1,2 +1,3 @@
-Using BuzzFeed's API, this script intakes user input from the command line to pull a list of titles and article descriptions that fit the user's preferences. 
-Then the program allows the user to enter one of the article titles and sends the user to the URL page.
+This script prompts the user for input from the command line 
+Using BuzzFeed's API, it pulls a list of titles and article descriptions that fit the user's preferences 
+Then the program allows the user to enter one of the article titles and sends the user to the URL page
