@@ -1,3 +1,4 @@
 This script prompts the user for input from the command line 
 Using BuzzFeed's API, it pulls a list of titles and article descriptions that fit the user's preferences 
 Then the program allows the user to enter one of the article titles and sends the user to the URL page
+To run through the command line, enter: Python newsMatch.py
